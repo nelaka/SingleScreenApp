@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Typostar</string>
+    <string name="description">Wedding and Baptism Invitations</string>
+    <string name="working_hours">Mon-Fri, 8:00am - 4:00pm</string>
+    <string name="working_hours_title">Open Hours:</string>
+</resources>
